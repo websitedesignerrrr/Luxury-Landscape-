@@ -1,0 +1,8 @@
+{
+  "name": "Verdant Coast Luxury Landscaping",
+  "description": "Florida's premier 3D interactive luxury landscaping, hardscaping, outdoor lighting, and lawn care company.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
